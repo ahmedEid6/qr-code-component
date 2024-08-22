@@ -35,8 +35,12 @@ main {
   border-radius: 10px;
 }
 
-.card h2 {
+.card-content {
+  padding-inline: 16px;
   margin-top: 24px;
+}
+
+.card h2 {
   margin-bottom: 16px;
   font-weight: 700;
   color: #1f314f;
@@ -47,6 +51,6 @@ main {
 .card p {
   color: #68778d;
   line-height: 1.4;
-  letter-spacing: 0.6px;
+  letter-spacing: 0.2px;
   font-size: 1rem;
 }
