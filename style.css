@@ -31,8 +31,7 @@ main {
 }
 
 .card img {
-  width: 288px;
-  max-width: 100%;
+  width: 100%;
   border-radius: 10px;
 }
 
@@ -48,5 +47,6 @@ main {
 .card p {
   color: #68778d;
   line-height: 1.4;
-  letter-spacing: 0.2px;
+  letter-spacing: 0.6px;
+  font-size: 1rem;
 }
